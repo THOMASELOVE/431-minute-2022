@@ -22,7 +22,8 @@ More to come
 ## Deadlines and Late Work
 
 - All Minute Paper deadlines are in the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html).
-- Minute Papers that are between 1 and 12 hours late will receive 60% credit. Minute Papers that are more than 12 hours late will receive no credit.
+- Minute Papers that are between 1 and 12 hours late will receive 60% credit. 
+- Minute Papers that are more than 12 hours late will receive no credit.
 
 ## Course Participation Grades
 
