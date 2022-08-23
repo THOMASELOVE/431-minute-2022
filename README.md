@@ -6,10 +6,11 @@ The first step is to complete the [Welcome to 431 Survey](https://bit.ly/431-202
 
 # Minute Papers for 431 in Fall 2022
 
-During the semester, Professor Love will set a series of "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. The first Minute Paper is due after Class 5.
+During the semester, Professor Love will set a series of "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. The first Minute Paper is due after Class 3.
 
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 ----------: | ------: | :--------: | :----------:
+3 (2022-09-06) | 2022-09-07 | To Be Announced | not yet available
 5 (2022-09-13) | 2022-09-14 | To Be Announced | not yet available
 
 - You'll need to be logged into Google via CWRU to complete the Minute Papers, or to review the feedback.
