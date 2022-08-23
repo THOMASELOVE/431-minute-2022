@@ -18,7 +18,6 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 More to come 
 
 - You'll need to be logged into Google via CWRU to complete the Minute Papers, or to review the feedback.
-- Your **Lab Code** identifies you in the roster. Dr. Love sent your Lab Code via email on 2021-09-10. (The email's subject is **431 Lab Code - please save**.) 
 
 ## Deadlines and Late Work
 
