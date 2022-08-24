@@ -20,8 +20,6 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 20 (2022-11-15) | 2022-11-16 | To Be Posted | not yet available
 23 (2022-12-06) | 2022-12-07 | To Be Posted | not yet available
 
-More to come 
-
 - You'll need to be logged into Google via CWRU to complete the Minute Papers, or to review the feedback.
 
 ## Deadlines and Late Work
