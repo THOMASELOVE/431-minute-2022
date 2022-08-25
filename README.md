@@ -36,3 +36,4 @@ Details on how course participation is evaluated are provided in [this section o
 2. asking and answering useful questions on Campuswise, and **in class sessions**, and 
 3. finding typos in the materials and helping Dr. Love to fix them
 
+[Click here](https://thomaselove.github.io/431-2022/) to return to the main website for the course.
