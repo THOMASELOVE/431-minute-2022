@@ -10,7 +10,7 @@ During the semester, Professor Love will set a series of nine "minute papers" wh
 
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 ----------: | :------: | :--------: | :----------:
-3 (2022-09-06) | 2022-09-07 | To Be Posted | not yet available
+3 (2022-09-06) | 2022-09-07 | https://bit.ly/431-2022-min-03 | not yet available
 5 (2022-09-13) | 2022-09-14 | To Be Posted | not yet available
 7 (2022-09-20) | 2022-09-21 | To Be Posted | not yet available
 9 (2022-09-27) | 2022-09-28 | To Be Posted | not yet available
