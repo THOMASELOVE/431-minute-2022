@@ -13,7 +13,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 3 (09-06) | 2022-09-07 | https://bit.ly/431-2022-min-03 | https://bit.ly/431-2022-min03-feedback
 5 (09-13) | 2022-09-14 | https://bit.ly/431-2022-min-05 | https://bit.ly/431-2022-min05-feedback
 7 (09-20) | 2022-09-21 | https://bit.ly/431-2022-min-07 | https://bit.ly/431-2022-min07-feedback
-9 (09-27) | 2022-09-28 | https://bit.ly/431-2022-min-09 | not yet available
+9 (09-27) | 2022-09-28 | https://bit.ly/431-2022-min-09 | https://bit.ly/431-2022-min09-feedback
 11 (10-05) | 2022-10-06 | To Be Posted | not yet available
 14 (10-17) | 2022-10-18 | To Be Posted | not yet available
 17 (11-01) | 2022-11-02 | To Be Posted | not yet available
