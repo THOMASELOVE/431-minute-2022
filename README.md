@@ -17,7 +17,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 11 (10-05) | 2022-10-06 | https://bit.ly/431-2022-min-11 | https://bit.ly/431-2022-min11-feedback
 14 (10-17) | 2022-10-18 | https://bit.ly/431-2022-min-14 | https://bit.ly/431-2022-min14-feedback
 17 (11-03) | 2022-11-04 | https://bit.ly/431-2022-min-17 | https://bit.ly/431-2022-min17-feedback
-20 (11-15) | 2022-11-16 | To Be Posted | not yet available
+20 (11-15) | 2022-11-16 | https://bit.ly/431-2022-min-20 | not yet available
 23 (12-06) | 2022-12-07 | To Be Posted | not yet available
 
 - You'll need to be logged into Google via CWRU to complete the Minute Papers, or to review the feedback.
